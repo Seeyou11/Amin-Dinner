@@ -33,3 +33,8 @@ C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinn
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\AminDinner.Application.pdb
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\AminDinner.Infrastructure.pdb
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\AminDinner.Domain.pdb
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
