@@ -1,0 +1,12 @@
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\bin\Debug\net7.0\AminDinner.Contracts.deps.json
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\bin\Debug\net7.0\AminDinner.Contracts.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\bin\Debug\net7.0\AminDinner.Contracts.pdb
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\obj\Debug\net7.0\AminDinner.Contracts.csproj.AssemblyReference.cache
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\obj\Debug\net7.0\AminDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\obj\Debug\net7.0\AminDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\obj\Debug\net7.0\AminDinner.Contracts.AssemblyInfo.cs
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\obj\Debug\net7.0\AminDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\obj\Debug\net7.0\AminDinner.Contracts.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\obj\Debug\net7.0\refint\AminDinner.Contracts.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\obj\Debug\net7.0\AminDinner.Contracts.pdb
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Contracts\obj\Debug\net7.0\ref\AminDinner.Contracts.dll

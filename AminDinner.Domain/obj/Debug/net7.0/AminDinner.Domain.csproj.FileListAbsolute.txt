@@ -1,0 +1,12 @@
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\bin\Debug\net7.0\AminDinner.Domain.deps.json
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\bin\Debug\net7.0\AminDinner.Domain.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\bin\Debug\net7.0\AminDinner.Domain.pdb
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\obj\Debug\net7.0\AminDinner.Domain.csproj.AssemblyReference.cache
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\obj\Debug\net7.0\AminDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\obj\Debug\net7.0\AminDinner.Domain.AssemblyInfoInputs.cache
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\obj\Debug\net7.0\AminDinner.Domain.AssemblyInfo.cs
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\obj\Debug\net7.0\AminDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\obj\Debug\net7.0\AminDinner.Domain.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\obj\Debug\net7.0\refint\AminDinner.Domain.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\obj\Debug\net7.0\AminDinner.Domain.pdb
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Domain\obj\Debug\net7.0\ref\AminDinner.Domain.dll

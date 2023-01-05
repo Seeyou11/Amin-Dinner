@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bYV+ij6Bk6sVNbRDk4hnwZMEqjw4htDWQ3inn2T/nFeS5ZTn3mlx6hdw6r0X+35xnxkgay4zkcnVMyiUo2Q6Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cv\\Documents\\FullStack\\Backend\\CleanArchitectureDDD\\AminDinner\\AminDinner.Application\\AminDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

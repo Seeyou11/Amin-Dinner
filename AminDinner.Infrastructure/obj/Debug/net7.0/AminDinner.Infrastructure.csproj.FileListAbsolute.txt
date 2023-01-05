@@ -1,0 +1,17 @@
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\bin\Debug\net7.0\AminDinner.Infrastructure.deps.json
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\bin\Debug\net7.0\AminDinner.Infrastructure.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\bin\Debug\net7.0\AminDinner.Infrastructure.pdb
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\obj\Debug\net7.0\AminDinner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\obj\Debug\net7.0\AminDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\obj\Debug\net7.0\AminDinner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\obj\Debug\net7.0\AminDinner.Infrastructure.AssemblyInfo.cs
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\obj\Debug\net7.0\AminDinner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\obj\Debug\net7.0\AminDinner.Infrastructure.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\obj\Debug\net7.0\refint\AminDinner.Infrastructure.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\obj\Debug\net7.0\AminDinner.Infrastructure.pdb
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\obj\Debug\net7.0\ref\AminDinner.Infrastructure.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\bin\Debug\net7.0\AminDinner.Application.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\bin\Debug\net7.0\AminDinner.Domain.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\bin\Debug\net7.0\AminDinner.Application.pdb
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\bin\Debug\net7.0\AminDinner.Domain.pdb
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Infrastructure\obj\Debug\net7.0\AminDinner.Infrastructure.csproj.CopyComplete
