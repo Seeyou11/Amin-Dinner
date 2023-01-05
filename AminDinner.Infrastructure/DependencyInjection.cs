@@ -1,6 +1,8 @@
 using AminDinner.Application.Common.Interfaces.Authentication;
+using AminDinner.Application.Common.Interfaces.Persistance;
 using AminDinner.Application.Common.Interfaces.Services;
 using AminDinner.Infrastructure.Authentication;
+using AminDinner.Infrastructure.Persistance;
 using AminDinner.Infrastructure.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -12,8 +14,11 @@ public static class DependencyInjection
     public static IServiceCollection AddInfrastructure(this IServiceCollection services, ConfigurationManager configuration)
     {
         services.Configure<JwtSettings>(configuration.GetSection(JwtSettings.SectionName));
+
         services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
         services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
+
+        services.AddScoped<IUserRepository, UserRepository>();
 
         return services;
     }

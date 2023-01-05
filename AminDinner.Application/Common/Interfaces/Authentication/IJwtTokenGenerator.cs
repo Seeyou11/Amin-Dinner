@@ -1,7 +1,10 @@
 
+using System;
+using AminDinner.Domain.Entities;
+
 namespace AminDinner.Application.Common.Interfaces.Authentication;
 
 public interface IJwtTokenGenerator
 {
-    string GenerateToken(Guid userId, string firstName, string lastName);
+    string GenerateToken(User user);
 }
