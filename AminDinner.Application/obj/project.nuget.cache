@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Ck1HdE/eQZ/HVkn5sSCKiqCl2XJ/kcs8/MHHiUjtgsWkZKKWpQWtjYJfIil5w9ga9aQWIdjrvi4NG50MdttX9Q==",
+  "dgSpecHash": "rGNEXci/VdpvJWd0Vyvqu1cm1a5YqZJl3y/Ltp4zqekkUs5jjdaQDhWQ/ZzVE+hh12Ig94LTMidRtvGuZ0HQrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\cv\\Documents\\FullStack\\Backend\\CleanArchitectureDDD\\AminDinner\\AminDinner.Application\\AminDinner.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cv\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\cv\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\cv\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\cv\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\cv\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\cv\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\cv\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

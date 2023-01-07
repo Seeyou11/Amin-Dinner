@@ -45,3 +45,7 @@ C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinn
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Mapster.dll
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Mapster.Core.dll
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Mapster.DependencyInjection.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\obj\Debug\net7.0\AminDinner.Api.MvcApplicationPartsAssemblyInfo.cs

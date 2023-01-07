@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4lKjiHvcdnpT6o6FT+xA04sP8tkVSuaK61geAKjoBbjRi1M44nG6NptOnpNWhUndWhdWgM7dK/Ue85LPc/LPHw==",
+  "dgSpecHash": "aQtEy/wbiPj1Emakx/LgWy5+wewT5ey7+A2UTALqmxQO1Rbi1fd2/P99K1NCyzVP4czF5jEYr5eaPZXvyQKxHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\cv\\Documents\\FullStack\\Backend\\CleanArchitectureDDD\\AminDinner\\AminDinner.Api\\AminDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cv\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\cv\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\cv\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\cv\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\cv\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
     "C:\\Users\\cv\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",
     "C:\\Users\\cv\\.nuget\\packages\\mapster.dependencyinjection\\1.0.0\\mapster.dependencyinjection.1.0.0.nupkg.sha512",
