@@ -1,14 +1,15 @@
 
 using AminDinner.Application.Services.Authentication;
 using AminDinner.Contracts.Authentication;
+using ErrorOr;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AminDinner.Api.Controllers;
 
-[ApiController]
+
 [Route("auth")]
-public class AuthenticationController : ControllerBase
+public class AuthenticationController : ApiController
 {
     private readonly IAuthenticationService _authenticationService;
 
@@ -20,22 +21,19 @@ public class AuthenticationController : ControllerBase
     [HttpPost("register")]
     public IActionResult Register(RegisterRequest request)
     {
-        var authResult = _authenticationService.Register(
+        ErrorOr<AuthenticationResult> authResult = _authenticationService.Register(
             request.FirstName,
             request.LastName,
             request.Email,
-            request.Password
-        );
+            request.Password);
 
-        var response = new AuthenticationResponse(
-            authResult.user.Id,
-            authResult.user.FirstName,
-            authResult.user.LastName,
-            authResult.user.Email,
-            authResult.Token
-        );
-        return Ok(response);
+        return authResult.Match(
+            authResult => Ok(MapAuthResult(authResult)),
+            errors => Problem(errors));
+
+
     }
+
 
     [HttpPost("login")]
     public IActionResult Login(LoginRequest request)
@@ -45,13 +43,27 @@ public class AuthenticationController : ControllerBase
            request.Password
        );
 
-        var response = new AuthenticationResponse(
-            authResult.user.Id,
-            authResult.user.FirstName,
-            authResult.user.LastName,
-            authResult.user.Email,
-            authResult.Token
-        );
-        return Ok(response);
+        if (authResult.IsError && authResult.FirstError == Domain.Common.Errors.Errors.Authentication.InvalidCredentials)
+        {
+            return Problem(
+                statusCode: StatusCodes.Status401Unauthorized,
+                title: authResult.FirstError.Description);
+        }
+
+        return authResult.Match(
+           authResult => Ok(MapAuthResult(authResult)),
+           errors => Problem(errors));
+    }
+
+
+    private static AuthenticationResponse MapAuthResult(AuthenticationResult authResult)
+    {
+        return new AuthenticationResponse(
+                    authResult.user.Id,
+                    authResult.user.FirstName,
+                    authResult.user.LastName,
+                    authResult.user.Email,
+                    authResult.Token
+                );
     }
 }

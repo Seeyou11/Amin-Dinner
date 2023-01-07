@@ -13,4 +13,8 @@
     <ProjectReference Include="..\AminDinner.Infrastructure\AminDinner.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ErrorOr" Version="1.2.1" />
+  </ItemGroup>
+
 </Project>

@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "ErrorOr/1.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -304,6 +317,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "AminDinner.Domain": "1.0.0",
+          "ErrorOr": "1.2.1",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "compile": {
@@ -326,6 +340,9 @@
       "AminDinner.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ErrorOr": "1.2.1"
+        },
         "compile": {
           "bin/placeholder/AminDinner.Domain.dll": {}
         },
@@ -353,6 +370,22 @@
     }
   },
   "libraries": {
+    "ErrorOr/1.2.1": {
+      "sha512": "5xcbQErEPQKq2z/sLwSaFPX3T2G7x4ISX0us0X7jSxXSQT/wlfOOhw4knPUN/GWOf2strhuzdvRA36JViwvu+A==",
+      "type": "package",
+      "path": "erroror/1.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "erroror.1.2.1.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml",
+        "lib/netstandard2.0/ErrorOr.dll",
+        "lib/netstandard2.0/ErrorOr.xml"
+      ]
+    },
     "Microsoft.CSharp/4.5.0": {
       "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
@@ -1019,7 +1052,8 @@
     "net7.0": [
       "AminDinner.Application >= 1.0.0",
       "AminDinner.Contracts >= 1.0.0",
-      "AminDinner.Infrastructure >= 1.0.0"
+      "AminDinner.Infrastructure >= 1.0.0",
+      "ErrorOr >= 1.2.1"
     ]
   },
   "packageFolders": {
@@ -1075,6 +1109,12 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "ErrorOr": {
+            "target": "Package",
+            "version": "[1.2.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

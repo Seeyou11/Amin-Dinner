@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4L1VcZwNIjjac0PUhpwm/FO4fRowTiQPSdv0mtJQMkiz+zTVVsduc0moOblhfcnnw/BT3OlUr4Bp9/xVP5RLGw==",
+  "dgSpecHash": "JDPSi/h3MbWj56pcGATuZ8PCBZo7CM768B8lkSxIXsy6w8Zxi3BE9nYYrG7EwAiq4yz3fQLzmskREGvf15Cj4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\cv\\Documents\\FullStack\\Backend\\CleanArchitectureDDD\\AminDinner\\AminDinner.Domain\\AminDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cv\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
