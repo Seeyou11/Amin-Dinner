@@ -1,11 +1,10 @@
 
-using System;
 using AminDinner.Domain.Entities;
 
-namespace AminDinner.Application.Services.Authentication;
+namespace AminDinner.Application.Authentication.Common;
 
 public record AuthenticationResult
 (
-    User user,
+    User User,
     string Token
 );

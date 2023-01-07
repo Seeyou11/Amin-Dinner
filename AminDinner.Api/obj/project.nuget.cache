@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h7VaHhmaGUJefJKrekOFOY3l6BK4V9ZofSFxgjKCum5XwBegrK7nPvqrHqqxk/MUYY1iHeAuIpeC3E7p0Ya8Pw==",
+  "dgSpecHash": "6lgQ3VTQFD8K0piij6SbahOI8MynyHyN2pt2UiM4WCKNMqbpwFTTSY9/HYTCe8TTx7jb3Rc1vHzthDgU3KUg+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\cv\\Documents\\FullStack\\Backend\\CleanArchitectureDDD\\AminDinner\\AminDinner.Api\\AminDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cv\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\cv\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\cv\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\cv\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\cv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\cv\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\cv\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

@@ -39,3 +39,6 @@ C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinn
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\ErrorOr.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
