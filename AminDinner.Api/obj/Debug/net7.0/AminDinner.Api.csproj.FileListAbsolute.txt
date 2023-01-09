@@ -49,3 +49,6 @@ C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinn
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\obj\Debug\net7.0\AminDinner.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cv\Documents\FullStack\Backend\CleanArchitectureDDD\AminDinner\AminDinner.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
